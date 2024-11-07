@@ -8,6 +8,11 @@ This repository contains the solution to the Device Manager API coding challenge
 - **Search**: Allows devices to be searched by brand.
 - **OpenAPI Documentation**: API specifications can be found in the `src/main/resources/openapi/deviceManager.yaml`.
 
+## Live Demo
+A live demo of the Device Manager API is available at [https://device-manager-zu5w.onrender.com](https://device-manager-zu5w.onrender.com).
+
+**Note:** This API is hosted on a [Render](https://render.com/) free instance, so it may spin down during periods of inactivity. As a result, the initial request after inactivity could be delayed by up to 50 seconds.
+
 ## Getting Started
 
 ### Prerequisites
